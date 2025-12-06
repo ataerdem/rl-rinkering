@@ -38,5 +38,6 @@ Run the `hurt_paw_training.ipynb` notebook to:
 2. Visualize rollouts and performance metrics
 3. Use the interactive simulator to test different commands and injured legs
 
+## Demo GIF
 
-![Robot Demo](demo.gif)
+![Robot Demo](https://github.com/ataerdem/rl-rinkering/blob/main/hurt_paw/demo.gif)
